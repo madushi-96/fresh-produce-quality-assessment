@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Automated Quality Assessment of Fresh Produce Using Deep Learning"
+message: "If you use this work, please cite it as below."
+authors: Madushi Sulakshana
+version: 1.0.0
+date-released: 2025-01-01
+repository-code: "https://github.com/madushi-96/fresh-produce-quality-assessment"
+keywords:
+  - Deep Learning
+  - Computer Vision
+  - Image Classification
+  - Agriculture
+  - Food Quality Assessment
+license: MIT
